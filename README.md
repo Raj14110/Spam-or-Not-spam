@@ -147,7 +147,7 @@ The models were evaluated using:
 ```text
 Spam-or-Not-spam/
 │── spam_classification.ipynb
-│── 
+│── SMSSpamCollection
 │── README.md
 │── requirements.txt
 ```
